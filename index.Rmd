@@ -1,5 +1,5 @@
 ---
-title: "Home: Eugene Joh"
+title: "Home"
 permalink: /home/
 ---
 

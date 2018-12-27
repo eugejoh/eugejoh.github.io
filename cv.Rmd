@@ -1,9 +1,9 @@
 ---
-  title: "Experiences: Eugene Joh"
+  title: "Experiences"
   permalink: /cv/
 ---
 
-**Domain Knowledge:** 
+**Domain Knowledge:**  
   - Infectious Disease Epidemiology and Surveillance  
   - One Health and Emerging Infectious Diseases  
   - Environmental Analytics  
@@ -14,7 +14,7 @@
   - Data Processing (5)  
   - Data Visualization (5)  
   - Programming (4)
-  - Spatial Data Processing and Analysis (3)
+  - Spatial Data Processing and Analysis (3)  
   - RDBMS Query and Design (3)  
   - Machine Learning (2)  
 
