@@ -3,4 +3,27 @@
   permalink: /cv/
 ---
   
-  CV and Resume here
+Technical Skills  
+  - Exploratory Data Analysis (5)  
+  - Data Processing (5)  
+  - Data Visualization (5)  
+  - Programming (4)
+  - Spatial Data Processing and Analysis (3)
+  - RDBMS Query and Design (3)  
+  - Modeling (2)  
+  - Machine Learning (2)  
+
+
+Soft Skills  
+  - Problem Solving  
+  - Critical Thinking  
+  - Collaboration  
+  - Interpersonal Skills  
+  - Active Learning  
+
+Tools  
+  - R (5)  
+  - SQL, PostgreSQL (3) 
+  - Matlab (3)  
+  - Python (3)  
+  - ArcGIS, QGIS (3)  
