@@ -69,18 +69,6 @@ a:active {
 }
 
 /* column alignment https://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown */
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-  .col3 {
-    columns: 3 100px;
-    -webkit-columns: 3 100px;
-    -moz-columns: 3 100px;
-  }
-</style>
 
 <style>
 .column-left{
@@ -91,11 +79,11 @@ a:active {
 .column-center{
   display: inline-block;
   width: 33%;
-  text-align: center;
+  text-align: left;
 }
 .column-right{
   float: right;
   width: 33%;
-  text-align: right;
+  text-align: left;
 }
 </style>

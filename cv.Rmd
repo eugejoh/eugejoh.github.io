@@ -5,49 +5,49 @@
 
 <div class="column-left">
 **Domain Knowledge:**  
-  - Infectious Disease Epidemiology and Surveillance  
-  - One Health and Emerging Infectious Diseases  
-  - Environmental Analytics  
-  - Statistical Programming  
+- Infectious Disease Epidemiology and Surveillance  
+- One Health and Emerging Infectious Diseases  
+- Environmental Analytics  
+- Statistical Programming  
 </div>
 <div class="column-center">
 **Technical Skills:**  
-  - Exploratory Data Analysis (5)  
-  - Data Processing (5)  
-  - Data Visualization (5)  
-  - Programming (4)  
-  - Spatial Data Processing and Analysis (3)  
-  - RDBMS Query and Design (3)  
-  - Machine Learning (2)  
+- Exploratory Data Analysis (5)  
+- Data Processing (5)  
+- Data Visualization (5)  
+- Programming (4)  
+- Spatial Data Processing and Analysis (3)  
+- RDBMS Query and Design (3)  
+- Machine Learning (2)  
 </div>
 <div class="column-right">
 **Soft Skills:**  
-  - Problem Solving  
-  - Critical Thinking  
-  - Collaboration  
-  - Interpersonal Skills  
-  - Active Learning  
+- Problem Solving  
+- Critical Thinking  
+- Collaboration  
+- Interpersonal Skills  
+- Active Learning  
 </div>
 <br>
 <div class="column-left">
 **Tools:**  
-  - R (5)  
-  - Python (3)  
-  - SQL, PostgreSQL (3)  
-  - Git, GitHub (3)  
-  - ArcGIS, QGIS (3)  
-  - HTML, CSS (2)
-  - Matlab (2)  
-  - SAS (1)  
+- R (5)  
+- Python (3)  
+- SQL, PostgreSQL (3)  
+- Git, GitHub (3)  
+- ArcGIS, QGIS (3)  
+- HTML, CSS (2)
+- Matlab (2)  
+- SAS (1)  
 <div class="column-center">
 **Other Skills and Experiences:**  
-  - Scientific Writing  
-  - Knowledge Translation  
-  - OS (Windows, Mac)  
-  - Reference Management (Refworks, Zotero)  
-  - Image Editing and Processing  (Adobe Photoshop, Illustrator)  
-  - Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
-  - Hiring Management and Interviews  
-  
+- Scientific Writing  
+- Knowledge Translation  
+- OS (Windows, Mac)  
+- Reference Management (Refworks, Zotero)  
+- Image Editing and Processing  (Adobe Photoshop, Illustrator)  
+- Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
+- Hiring Management and Interviews  
+</div>
 <br>
 
