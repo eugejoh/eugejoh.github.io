@@ -1,0 +1,9 @@
+---
+title: Contact
+permalink: /contact/
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<a href="mailto:ejoh@buedy?Subject=Hello" target="_top">Email</a>
+Toronto, Canada<br>

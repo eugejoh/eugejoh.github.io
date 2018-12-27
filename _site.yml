@@ -1,0 +1,34 @@
+name: "Home"
+output_dir: "."
+navbar:
+  title: ""
+  type: 
+  left:
+    - text: "Home"
+      icon: fa-user
+      href: index.html
+    - text: "CV"
+      icon: fa-file
+      href: cv.html
+    - text: "Projects"
+      icon: fa-chart-bar
+      href: projects.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/eugejoh
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/eugejoh
+    - icon: fa-linkedin fa-lg
+      href: www.linkedin.com/in/eugejoh
+output:
+  html_document:
+    theme: paper
+    include:
+      before_body: header.html
+#      after_body: footer.html
+    css: 
+     - 'styles.css'
+     - 'fonts.css'

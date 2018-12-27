@@ -1,0 +1,6 @@
+---
+  title: "Experiences"
+  permalink: /cv/
+---
+  
+  CV and Resume here
