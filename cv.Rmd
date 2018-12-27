@@ -10,6 +10,7 @@
 - Environmental Analytics  
 - Statistical Programming  
 </div>
+
 <div class="column-center">
 **Technical Skills:**  
 - Exploratory Data Analysis (5)  
@@ -20,6 +21,7 @@
 - RDBMS Query and Design (3)  
 - Machine Learning (2)  
 </div>
+
 <div class="column-right">
 **Soft Skills:**  
 - Problem Solving  
@@ -28,7 +30,9 @@
 - Interpersonal Skills  
 - Active Learning  
 </div>
+
 <br>
+
 <div class="column-left">
 **Tools:**  
 - R (5)  
@@ -39,6 +43,7 @@
 - HTML, CSS (2)
 - Matlab (2)  
 - SAS (1)  
+</div>
 <div class="column-center">
 **Other Skills and Experiences:**  
 - Scientific Writing  
