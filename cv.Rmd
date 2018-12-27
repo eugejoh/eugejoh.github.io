@@ -40,7 +40,7 @@
   - Knowledge Translation  
   - OS (Windows, Mac)  
   - Reference Management (Refworks, Zotero)  
-  - Image Editing and Processing  (Adobe Photoshop, Illustrator)
+  - Image Editing and Processing  (Adobe Photoshop, Illustrator)  
   - Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
   - Hiring Management and Interviews  
   
