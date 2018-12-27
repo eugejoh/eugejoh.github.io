@@ -5,8 +5,9 @@
 
 <div class="column-left">
 **Domain Knowledge:**  
-- Infectious Disease Epidemiology and Surveillance  
-- One Health and Emerging Infectious Diseases  
+- Infectious Disease Epidemiology  
+- Disease Surveillance  
+- One Health  
 - Environmental Analytics  
 - Statistical Programming  
 </div>
@@ -44,6 +45,7 @@
 - Matlab (2)  
 - SAS (1)  
 </div>
+
 <div class="column-center">
 **Other Skills and Experiences:**  
 - Scientific Writing  
@@ -54,5 +56,6 @@
 - Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
 - Hiring Management and Interviews  
 </div>
+
 <br>
 
