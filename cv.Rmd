@@ -3,6 +3,35 @@
   permalink: /cv/
 ---
 
+<div class="row">
+<div class="column">
+<h3>Domain Knowledge</h3>
+- Infectious Disease Epidemiology  
+- Disease Surveillance  
+- One Health  
+- Environmental Analytics  
+- Statistical Programming  
+</div>
+<div class="column">
+<h3>Technical Skills</h3>
+- Exploratory Data Analysis (5)  
+- Data Processing (5)  
+- Data Visualization (5)  
+- Programming (4)  
+- Spatial Data Processing and Analysis (3)  
+- RDBMS Query and Design (3)  
+- Machine Learning (2)  
+</div>
+<div class="column">
+<h3>Soft Skills</h3>
+- Problem Solving  
+- Critical Thinking  
+- Collaboration  
+- Interpersonal Skills  
+- Active Learning  
+</div>
+</div>
+
 <div class="column-left">
 **Domain Knowledge:**  
 - Infectious Disease Epidemiology  
