@@ -32,39 +32,11 @@
 </div>
 </div>
 
-<div class="column-left">
-**Domain Knowledge:**  
-- Infectious Disease Epidemiology  
-- Disease Surveillance  
-- One Health  
-- Environmental Analytics  
-- Statistical Programming  
-</div>
-
-<div class="column-center">
-**Technical Skills:**  
-- Exploratory Data Analysis (5)  
-- Data Processing (5)  
-- Data Visualization (5)  
-- Programming (4)  
-- Spatial Data Processing and Analysis (3)  
-- RDBMS Query and Design (3)  
-- Machine Learning (2)  
-</div>
-
-<div class="column-right">
-**Soft Skills:**  
-- Problem Solving  
-- Critical Thinking  
-- Collaboration  
-- Interpersonal Skills  
-- Active Learning  
-</div>
-
 <br>
 
-<div class="column-left">
-**Tools:**  
+<div class="row">
+<div class="column">
+<h3>Tools</h3>
 - R (5)  
 - Python (3)  
 - SQL, PostgreSQL (3)  
@@ -72,11 +44,10 @@
 - ArcGIS, QGIS (3)  
 - HTML, CSS (2)
 - Matlab (2)  
-- SAS (1)  
+- SAS (1) 
 </div>
-
-<div class="column-center">
-**Other Skills and Experiences:**  
+<div class="column">
+<h3>Other Skills and Experiences</h3>
 - Scientific Writing  
 - Knowledge Translation  
 - OS (Windows, Mac)  
@@ -85,6 +56,62 @@
 - Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
 - Hiring Management and Interviews  
 </div>
+</div>
 
-<br>
+
+<!-- <div class="column-left"> -->
+<!-- **Domain Knowledge:**   -->
+<!-- - Infectious Disease Epidemiology   -->
+<!-- - Disease Surveillance   -->
+<!-- - One Health   -->
+<!-- - Environmental Analytics   -->
+<!-- - Statistical Programming   -->
+<!-- </div> -->
+
+<!-- <div class="column-center"> -->
+<!-- **Technical Skills:**   -->
+<!-- - Exploratory Data Analysis (5)   -->
+<!-- - Data Processing (5)   -->
+<!-- - Data Visualization (5)   -->
+<!-- - Programming (4)   -->
+<!-- - Spatial Data Processing and Analysis (3)   -->
+<!-- - RDBMS Query and Design (3)   -->
+<!-- - Machine Learning (2)   -->
+<!-- </div> -->
+
+<!-- <div class="column-right"> -->
+<!-- **Soft Skills:**   -->
+<!-- - Problem Solving   -->
+<!-- - Critical Thinking   -->
+<!-- - Collaboration   -->
+<!-- - Interpersonal Skills   -->
+<!-- - Active Learning   -->
+<!-- </div> -->
+
+<!-- <br> -->
+
+<!-- <div class="column-left"> -->
+<!-- **Tools:**   -->
+<!-- - R (5)   -->
+<!-- - Python (3)   -->
+<!-- - SQL, PostgreSQL (3)   -->
+<!-- - Git, GitHub (3)   -->
+<!-- - ArcGIS, QGIS (3)   -->
+<!-- - HTML, CSS (2) -->
+<!-- - Matlab (2)   -->
+<!-- - SAS (1)   -->
+<!-- </div> -->
+
+<!-- <div class="column-center"> -->
+<!-- **Other Skills and Experiences:**   -->
+<!-- - Scientific Writing   -->
+<!-- - Knowledge Translation   -->
+<!-- - OS (Windows, Mac)   -->
+<!-- - Reference Management (Refworks, Zotero)   -->
+<!-- - Image Editing and Processing  (Adobe Photoshop, Illustrator)   -->
+<!-- - Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)   -->
+<!-- - Hiring Management and Interviews   -->
+<!-- </div> -->
+
+<!-- <br> -->
 

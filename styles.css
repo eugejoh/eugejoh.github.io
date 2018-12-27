@@ -70,30 +70,11 @@ a:active {
 
 /* column alignment https://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown */
 
-<style>
-.column-left{
-  float: left;
-  width: 33%;
-  text-align: left;
-}
-.column-center{
-  display: inline-block;
-  width: 33%;
-  text-align: left;
-}
-.column-right{
-  float: right;
-  width: 33%;
-  text-align: left;
-}
-</style>
-
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
   width: 50%;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
 }
 
 /* Clear floats after the columns */
