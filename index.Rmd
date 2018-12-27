@@ -10,7 +10,7 @@ permalink: /home/
 
 Besides drinking copious amounts of coffee and planning weekend hikes aroudn the greater Toronto area, I am an avid **[R user](https://www.r-project.org/)** and strong believer in reproducible workflows for research.
 
-<img align="left" src="img/image001.jpg", height = 175, width = 180>
+<img align="left" src="img/me.jpg", height = 175, width = 180>
 
 Welcome to my Github Pages site! It contains some basic information about myself, my experiences, interests, and some projects I do in my spare time. 
 
