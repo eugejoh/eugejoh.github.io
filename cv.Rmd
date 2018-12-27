@@ -1,5 +1,5 @@
 ---
-  title: "Experiences"
+  title: ""
   permalink: /cv/
 ---
 
