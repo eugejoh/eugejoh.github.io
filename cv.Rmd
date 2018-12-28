@@ -52,6 +52,7 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 </div>
 
 <br>
+
 # Experiences
 
 <div class="row">
@@ -68,7 +69,7 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 </div>
 </div>
 
-My [LinkedIn profile](www.linkedin.com/in/eugejoh) can be found here or top right of the navigation bar.
+More of my experiences can be found in my [**LinkedIn profile**](www.linkedin.com/in/eugejoh) at the top right of the navigation bar.  
 
 <!-- <div class="column-left"> -->
 <!-- **Domain Knowledge:**   -->

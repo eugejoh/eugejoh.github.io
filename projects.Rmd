@@ -2,6 +2,7 @@
   title: "Projects"
   permalink: /projects/
 ---
-  
-In progress...
 
+I write posts on some small data exploration and visualization on my [blog].  
+
+*this is work in progress...*  
