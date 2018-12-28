@@ -29,26 +29,26 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 </div>
 <div class="column">
 <h3>Technical Skills</h3><p>
-- Descriptive Data Analysis (5)  
-- Data Processing (5)  
-- Data Visualization (5)  
-- Programming (4)  
-- Regular Expression (4)
-- Spatial Data Analysis (3)  
-- RDBMS Query and Design (3)  
-- Machine Learning (2)  
+- Descriptive Data Analysis  
+- Data Processing  
+- Data Visualization  
+- Programming  
+- Regular Expression  
+- Spatial Data Analysis  
+- RDBMS Query and Design  
+- Machine Learning  
 </p>
 </div>
 <div class="column">
 <h3>Tools</h3><p>
-- R (5)  
-- Python (3)  
-- SQL, PostgreSQL (3)  
-- Git, GitHub (3)  
-- ArcGIS, QGIS (3)  
-- HTML, CSS (2)
-- Matlab (2)  
-- SAS (1)  
+- R  
+- SQL, PostgreSQL  
+- Git, GitHub  
+- Python  
+- ArcGIS, QGIS  
+- HTML, CSS  
+- Matlab  
+- SAS   
 </p>
 </div>
 </div>
