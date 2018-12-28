@@ -1,34 +1,38 @@
 ---
-  title: "Experiences"
+  title: "Skills"
   permalink: /cv/
 ---
+
+My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) package.  
+
 <!-- Use formattable package to create  -->
 <div class="row">
 <div class="column">
 <h3>Domain Knowledge</h3><p>
 - Infectious Disease Epidemiology  
 - Disease Surveillance  
-- One Health  
-- Environmental Analytics  
 - Statistical Programming  
+- Environmental Analytics  
+- Vector-borne Diseases
 </p>
 </div>
 <div class="column">
 <h3>Soft Skills</h3><p>
 - Problem Solving  
 - Critical Thinking  
-- Collaboration  
+- Effective Communication    
 - Interpersonal Skills  
 - Active Learning  
 </p>
 </div>
 <div class="column">
 <h3>Technical Skills</h3><p>
-- Exploratory Data Analysis (5)  
+- Descriptive Data Analysis (5)  
 - Data Processing (5)  
 - Data Visualization (5)  
 - Programming (4)  
-- Spatial Data Processing and Analysis (3)  
+- Regular Expression (4)
+- Spatial Data Analysis (3)  
 - RDBMS Query and Design (3)  
 - Machine Learning (2)  
 </p>
@@ -48,6 +52,7 @@
 </div>
 
 <br>
+# Experiences
 
 <div class="row">
 <div class="column">
@@ -63,6 +68,7 @@
 </div>
 </div>
 
+My [LinkedIn profile](www.linkedin.com/in/eugejoh) can be found here or top right of the navigation bar.
 
 <!-- <div class="column-left"> -->
 <!-- **Domain Knowledge:**   -->

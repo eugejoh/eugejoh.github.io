@@ -9,7 +9,7 @@ Welcome to my Github Pages site! It contains some basic information about myself
 
 Besides drinking copious amounts of coffee and planning weekend hikes, I am an avid **[R user](https://www.r-project.org/)** and strong believer in reproducible workflows for research.  
 
-<img align="left" src="img/me.jpg", height = 175, width = 180>
+<img align="left" src="img/me.jpg", height = 220, width = 225>
 
 The journey up to this point has been quite non-linear... I completed my undergraduate studies with a degree in [medical biophysics](https://www.schulich.uwo.ca/biophysics/undergraduate/future_students/what_is_medical_biophysics.html), but shifted my interest to population health for my [graduate studies](https://www.bu.edu/sph/) where I discovered R as an amazing tool for data analysis. My current interests lie at the intersection of data science and public health. I consider myself a **data science enthusiast** as I'm still building my skills in other analytical tools.  
 
