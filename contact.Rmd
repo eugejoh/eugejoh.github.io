@@ -1,7 +1,9 @@
 ---
-title: Contact
+title: ""
 permalink: /contact/
 ---
+
+# Contact
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 

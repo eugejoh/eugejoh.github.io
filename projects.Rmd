@@ -1,7 +1,9 @@
 ---
-  title: "Projects"
+  title: ""
   permalink: /projects/
 ---
+
+# Projects
 
 I write posts on some small data exploration and visualization on my [blog].  
 

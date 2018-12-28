@@ -1,7 +1,9 @@
 ---
-title: "Home"
+title: ""
 permalink: /home/
 ---
+
+# Home
 
 Welcome to my Github Pages site! It contains some basic information about myself, my experiences, interests, and some projects I do in my spare time. 
 

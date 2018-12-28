@@ -1,7 +1,9 @@
 ---
-  title: "Skills"
+  title: ""
   permalink: /cv/
 ---
+
+# Skills and Knowledge
 
 My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) package.  
 
