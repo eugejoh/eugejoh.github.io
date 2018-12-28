@@ -8,7 +8,7 @@ navbar:
       icon: fa-user
       href: index.html
     - text: "Skills"
-      icon: fa-file
+      icon: fa-tools
       href: cv.html
     - text: "Projects"
       icon: fa-chart-bar
