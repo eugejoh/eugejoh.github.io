@@ -7,7 +7,7 @@ navbar:
     - text: "Home"
       icon: fa-user
       href: index.html
-    - text: "Experiences"
+    - text: "Skills"
       icon: fa-file
       href: cv.html
     - text: "Projects"
