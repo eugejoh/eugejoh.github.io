@@ -50,22 +50,22 @@ body {
 }
 
 a:link {
-    color: #113381;
+    color: #811611;
 }
 
 /* visited link */
 a:visited {
-    color: #811611;
+    color: #981a14;
 }
 
 /* mouse over link */
 a:hover {
-    color: #116E81;
+    color: #981a14;
 }
 
 /* selected link */
 a:active {
-    color: #812711;
+    color: #981a14;
 }
 
 /* column alignment https://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown */
