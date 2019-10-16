@@ -7,7 +7,7 @@ navbar:
     - text: "Home"
       icon: fa-user
       href: index.html
-    - text: "Skills"
+    - text: "Tools"
       icon: fa-wrench
       href: cv.html
 

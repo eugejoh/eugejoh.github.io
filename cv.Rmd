@@ -2,6 +2,7 @@
   title: ""
   permalink: /cv/
 ---
+<br>
 
 # Skills and Knowledge
 
@@ -14,15 +15,14 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 - Infectious Disease Epidemiology  
 - Disease Surveillance  
 - Statistical Programming  
-- Environmental Analytics  
-- Vector-borne Diseases
+- Vector-borne Diseases  
 </p>
 </div>
 <div class="column">
 <h3>Soft Skills</h3><p>
 - Problem Solving  
 - Critical Thinking  
-- Effective Communication    
+- Effective Communication  
 - Interpersonal Skills  
 </p>
 </div>
@@ -31,7 +31,6 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 - Descriptive Data Analysis  
 - Data Processing  
 - Data Visualization  
-- Programming  
 - Regular Expression  
 - Spatial Data Analysis  
 - RDBMS Query and Design  
@@ -41,13 +40,12 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 <div class="column">
 <h3>Tools</h3><p>
 - R  
-- SQL, PostgreSQL  
+- MySQL, PostgreSQL  
 - Git, GitHub  
 - Python  
 - ArcGIS, QGIS  
 - HTML, CSS  
-- Matlab  
-- SAS   
+- SAS  
 </p>
 </div>
 </div>
@@ -61,12 +59,7 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 <h3>Other Skills and Experiences</h3><p>
 - Scientific Writing  
 - Knowledge Translation  
-- OS (Windows, Mac)  
 - Reference Management (Refworks, Zotero)  
-- Image Editing and Processing  (Adobe Photoshop, Illustrator)  
-- Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
-- Project Management  
-- Hiring Management and Interviews  
 </p>
 </div>
 </div>
