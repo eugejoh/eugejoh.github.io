@@ -59,7 +59,6 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 </div>
 </div>
 
-More of my experiences can be found in my [**LinkedIn profile**](www.linkedin.com/in/eugejoh) at the top right of the navigation bar.  
 
 <!-- <div class="column-left"> -->
 <!-- **Domain Knowledge:**   -->
