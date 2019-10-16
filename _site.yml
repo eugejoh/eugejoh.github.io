@@ -1,25 +1,24 @@
 name: "Home"
 output_dir: "."
 navbar:
-  title: ""
+  title: "Eugene Joh"
   type: 
   left:
-    - text: "Home"
+    - text: ""
       icon: fa-user
       href: index.html
-    - text: "Tools"
-      icon: fa-wrench
+    - text: ""
+      icon: fa-chart-bar
       href: cv.html
-
-  right:
-    - icon: fa-envelope fa-lg
+    - text: ""
+      icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
       href: https://github.com/eugejoh
     - icon: fa-twitter fa-lg
       href: https://twitter.com/eugejoh
     - icon: fa-linkedin fa-lg
-      href: www.linkedin.com/in/eugejoh
+      href: https://www.linkedin.com/in/eugejoh
 output:
   html_document:
     theme: paper

@@ -1,13 +1,9 @@
 ---
-title: ""
+title: "Contact"
 permalink: /contact/
 ---
-<br>
 
-# Contact
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Send me an <a href="mailto:ejoh@bu.edu?Subject=Hello" target="_top">email</a>
-
-Toronto, Canada<br>
+Send me an <a href="mailto:ejoh@bu.edu?Subject=Hello" target="_top">email</a> or find my social media links in the navigation bar.

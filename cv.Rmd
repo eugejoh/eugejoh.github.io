@@ -1,12 +1,9 @@
 ---
-  title: ""
-  permalink: /cv/
+title: "Skills"
+permalink: /cv/
 ---
-<br>
 
-# Skills and Knowledge
-
-My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and [**data.table**](https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html) package.  
+My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and the [RStudio](https://rstudio.com/products/rstudio/) IDE
 
 <!-- Use formattable package to create  -->
 <div class="row">
@@ -51,8 +48,6 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 </div>
 
 <br>
-
-# Experiences
 
 <div class="row">
 <div class="column">
