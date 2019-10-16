@@ -24,7 +24,6 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 - Critical Thinking  
 - Effective Communication    
 - Interpersonal Skills  
-- Active Learning  
 </p>
 </div>
 <div class="column">
@@ -66,6 +65,7 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 - Reference Management (Refworks, Zotero)  
 - Image Editing and Processing  (Adobe Photoshop, Illustrator)  
 - Microsoft Office Suite (Word, Excel, Powerpoint, Outlook)  
+- Project Management  
 - Hiring Management and Interviews  
 </p>
 </div>

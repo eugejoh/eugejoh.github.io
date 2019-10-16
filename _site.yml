@@ -10,9 +10,6 @@ navbar:
     - text: "Skills"
       icon: fa-wrench
       href: cv.html
-    - text: "Projects"
-      icon: fa-chart-bar
-      href: projects.html
 
   right:
     - icon: fa-envelope fa-lg
