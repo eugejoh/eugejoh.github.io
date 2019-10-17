@@ -12,7 +12,7 @@
 
 
 
-<title>Home</title>
+<title>Data Visualizations</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -337,17 +337,36 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Home</h1>
+<h1 class="title toc-ignore">Data Visualizations</h1>
 
 </div>
 
 
-<p>Welcome to my Github Pages site! It contains some basic information about myself, my interests, my skill set, and some projects I’ve worked on.</p>
-<p>Besides drinking copious amounts of coffee and planning weekend hikes, I am an avid <strong><a href="https://www.r-project.org/" target="_blank">R user</a></strong> and strong believer in reproducible workflows for research.</p>
-<p><img align="left" src="img/me.jpg", height = 220, width = 225></p>
-<p>The journey up to this point has been quite non-linear. I completed my undergraduate studies in an <a href="https://www.schulich.uwo.ca/biophysics/undergraduate/future_students/what_is_medical_biophysics.html" target="_blank">interdisciplinary field</a>, but shifted my interest to <strong>public health</strong> for my <a href="https://www.bu.edu/sph/" target="_blank">graduate studies</a> where I discovered <a href="https://www.r-project.org/">R</a> as an amazing tool for data analysis. I also found a passion for understanding how infectious diseases affect health at the population level.</p>
-<p>My current interests are in the epidemiology of infectious diseases and disease surveillance. I am also interested in the intersection of data science and public health - how data science tools can be used in the public health context, specifically for infectious disease research. I consider myself a <strong>data science enthusiast</strong> as I’m still building my <a href="cv.html">analytical skill set</a>.</p>
-<p>I currently work as an infectious disease <a href="https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology" target="_blank">epidemiogist</a> in Toronto, Canada. If you want to connect or grab a coffee, feel free to <a href="contact.html">contact me</a>!</p>
+<p>This page contains some <strong>data visualizations</strong> on work I’ve done over the years using variety of R packages. Most of these are from previous blog posts demonstrating using R for data wrangling and visualization.</p>
+<div id="emergency-department-visit-diagnosis" class="section level3">
+<h3>Emergency Department Visit Diagnosis</h3>
+<p>This <em>tree map</em> was created using data from the <a href="https://www.cdc.gov/nchs/ahcd/index.htm">National Health Ambulatory Medical Care Survey (NHAMCS)</a> from the United States. The groups are the diagnoses given for the emergency department visit, based on ICD-9 codes captured in the dataset.<br />
+<img align="center" src="img/data_viz/icd-9_tree_2009.png", width = 700> <em>Created using the <a href="https://cran.r-project.org/web/packages/treemap/index.html">treemap</a> package.</em></p>
+<p><br></p>
+</div>
+<div id="refugees-and-populations-of-concern" class="section level3">
+<h3>Refugees and Populations of Concern</h3>
+<p>The <a href="https://www.unhcr.org/data.html">United Nations High Commissioner for Refugees (UNHCR)</a>, the UN Refugee Agency obtain information of displaced persons from around the world, including refugees. The stacked bar chart displays the increase of these <a href="https://www.unhcr.org/ph/persons-concern-unhcr">Populations of Concern</a> over time. Note that definitions of these groups were introduced at different time points but the overall number of displaced peoples have steadily increased.<br />
+<img align="center" src="img/data_viz/unhcr_totals_yr.png", width = 800> <em>Created using the <a href="https://ggplot2.tidyverse.org/">ggplot2</a> package.</em></p>
+<p><br></p>
+</div>
+<div id="seasonality-of-watermain-breaks" class="section level3">
+<h3>Seasonality of Watermain Breaks</h3>
+<p>The City of Toronto has an <a href="https://open.toronto.ca/">open data portal</a> with datasets on watermain breaks throughout the city. The animated boxplots display the number of watermain breaks in each month over a 26 year period. The blue line represents the number of watermain breaks for a specific year.<br />
+<img align="center" src="img/data_viz/wm_wm2.gif", width = 650> <em>Created using the <a href="https://ggplot2.tidyverse.org/">ggplot2</a> and <a href="https://gganimate.com/">gganimate</a> packages.</em></p>
+<p><br></p>
+</div>
+<div id="laminar-flow-in-a-pipe" class="section level3">
+<h3>Laminar Flow in a Pipe</h3>
+<p><a href="https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation">Hagen–Poiseuille’s law</a> describes the behaviour of an incompressible fluid in laminar flow within a cylindrical pipe with a constant radius. The animated visualization shows the changes in the velocity profile when the pressure difference increases, here at each time point (<em>t</em>).<br />
+<img align="center" src="img/data_viz/vprofile11.gif", width = 600> <em>Created using the <a href="https://ggplot2.tidyverse.org/">ggplot2</a> and <a href="https://gganimate.com/">gganimate</a> packages.</em></p>
+<p><br></p>
+</div>
 
 
 

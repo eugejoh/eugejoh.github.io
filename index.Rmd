@@ -3,7 +3,7 @@ title: "Home"
 permalink: /home/
 ---
 
-Welcome to my Github Pages site! It contains some basic information about myself, my experiences, interests, and skill set. 
+Welcome to my Github Pages site! It contains some basic information about myself, my interests, my skill set, and some projects I've worked on.
 
 Besides drinking copious amounts of coffee and planning weekend hikes, I am an avid **[R user](https://www.r-project.org/){target="_blank"}** and strong believer in reproducible workflows for research.  
 

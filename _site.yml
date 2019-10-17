@@ -8,8 +8,11 @@ navbar:
       icon: fa-user
       href: index.html
     - text: ""
-      icon: fa-chart-bar
+      icon: fa-wrench
       href: cv.html
+    - text: ""
+      icon: fa-chart-bar
+      href: projects.html
     - text: ""
       icon: fa-envelope fa-lg
       href: contact.html

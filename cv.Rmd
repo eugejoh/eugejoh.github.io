@@ -1,9 +1,9 @@
 ---
-title: "Skills"
+title: "Skills & Tools"
 permalink: /cv/
 ---
 
-My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and the [RStudio](https://rstudio.com/products/rstudio/) IDE
+My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and the [**RStudio**](https://rstudio.com/products/rstudio/) IDE.
 
 <!-- Use formattable package to create  -->
 <div class="row">
@@ -11,8 +11,8 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 <h3>Domain Knowledge</h3><p>
 - Infectious Disease Epidemiology  
 - Disease Surveillance  
-- Statistical Programming  
 - Vector-borne Diseases  
+- Vaccine-preventable Diseases  
 </p>
 </div>
 <div class="column">
@@ -26,10 +26,10 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 <div class="column">
 <h3>Technical Skills</h3><p>
 - Descriptive Data Analysis  
-- Data Processing  
 - Data Visualization  
-- Regular Expression  
+- Statistical Modeling  
 - Spatial Data Analysis  
+- Record Linkage  
 - RDBMS Query and Design  
 - Machine Learning  
 </p>
@@ -38,7 +38,7 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 <h3>Tools</h3><p>
 - R  
 - MySQL, PostgreSQL  
-- Git, GitHub  
+- Git
 - Python  
 - ArcGIS, QGIS  
 - HTML, CSS  
