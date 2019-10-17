@@ -3,26 +3,10 @@ title: "Skills & Tools"
 permalink: /cv/
 ---
 
-My main tool for anything data related is **R**. My typical workflow uses the [**tidyverse**](https://www.tidyverse.org/) and the [**RStudio**](https://rstudio.com/products/rstudio/) IDE.
+My main tool for anything data related is **R**. My typical workflow uses the [**RStudio**](https://rstudio.com/products/rstudio/) IDE, and the [**tidyverse**](https://www.tidyverse.org/).  
 
 <!-- Use formattable package to create  -->
 <div class="row">
-<div class="column">
-<h3>Domain Knowledge</h3><p>
-- Infectious Disease Epidemiology  
-- Disease Surveillance  
-- Vector-borne Diseases  
-- Vaccine-preventable Diseases  
-</p>
-</div>
-<div class="column">
-<h3>Soft Skills</h3><p>
-- Problem Solving  
-- Critical Thinking  
-- Effective Communication  
-- Interpersonal Skills  
-</p>
-</div>
 <div class="column">
 <h3>Technical Skills</h3><p>
 - Descriptive Data Analysis  
@@ -45,19 +29,36 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 - SAS  
 </p>
 </div>
+<div class="column">
+<h3>Domain Knowledge</h3><p>
+- Infectious Disease Epidemiology  
+- Disease Surveillance  
+- Vector-borne Diseases  
+- Vaccine-Preventable Diseases  
+</p>
+</div>
+<div class="column">
+<h3>Other Skills</h3><p>
+- Knowledge Translation  
+- Scientific Writing  
+- Reference Management (Refworks, Zotero)  
+- Image Processing (ImageMagick, ImageJ)  
+</p>
+</div>
 </div>
 
 <br>
 
-<div class="row">
-<div class="column">
-<h3>Other Skills and Experiences</h3><p>
-- Scientific Writing  
-- Knowledge Translation  
-- Reference Management (Refworks, Zotero)  
-</p>
-</div>
-</div>
+<!-- <div class="row"> -->
+<!-- <div class="column"> -->
+<!-- <h3>Other Skills and Experiences</h3><p> -->
+<!-- - Scientific Writing   -->
+<!-- - Image Editing and Processing  (Adobe Photoshop/Illustrator, ImageMagick, ImageJ)   -->
+<!-- - Knowledge Translation   -->
+<!-- - Reference Management (Refworks, Zotero)   -->
+<!-- </p> -->
+<!-- </div> -->
+<!-- </div> -->
 
 
 <!-- <div class="column-left"> -->

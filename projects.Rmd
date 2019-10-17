@@ -1,9 +1,12 @@
 ---
 title: "Data Visualizations"
-permalink: /projects/
+# permalink: /projects/
+output: 
+  html_document:
+    toc: true
 ---
 
-This page contains some **data visualizations** on work I've done over the years using variety of R packages. Most of these are from previous blog posts demonstrating using R for data wrangling and visualization.
+This page contains some **data visualizations** on work I've done over the years using variety of R packages. Most of these are from [previous blog posts](https://opendatascience.com/user/eugene-joh/) demonstrating using R for data wrangling and visualization.
 
 ### Emergency Department Visit Diagnosis
 This *tree map* was created using data from the [National Health Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) from the United States. The groups are the diagnoses given for the emergency department visit, based on ICD-9 codes captured in the dataset.  
