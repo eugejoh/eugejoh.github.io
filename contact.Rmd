@@ -2,8 +2,6 @@
 title: "Contact"
 permalink: /contact/
 ---
-
-
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-Send me an <a href="mailto:ejoh@bu.edu?Subject=Hello" target="_top">email</a> or find my social media links in the navigation bar.
+If you would like to connect or just chat about public health, data, R, or anything else, send me an <a href="mailto:ejoh@bu.edu?Subject=Hello" target="_top">email</a> or find my social media links in the navigation bar. I am also available to chat over coffee if you're in the Toronto, Canada area.

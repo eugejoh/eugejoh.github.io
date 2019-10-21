@@ -275,33 +275,20 @@ $(document).ready(function () {
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
+        
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="index.html">
-    <span class="fa fa-user"></span>
-     
-    
-  </a>
+  <a href="index.html">About</a>
 </li>
 <li>
-  <a href="cv.html">
-    <span class="fa fa-wrench"></span>
-     
-    
-  </a>
+  <a href="cv.html">Tools</a>
 </li>
 <li>
-  <a href="projects.html">
-    <span class="fa fa-chart-bar"></span>
-     
-    
-  </a>
+  <a href="projects.html">Projects</a>
 </li>
 <li>
-  <a href="contact.html">
-    <span class="fa fa-envelope fa-lg"></span>
-     
-    
-  </a>
+  <a href="contact.html">Contact</a>
 </li>
 <li>
   <a href="https://github.com/eugejoh">
@@ -322,16 +309,15 @@ $(document).ready(function () {
   </a>
 </li>
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        
-      </ul>
     </div><!--/.nav-collapse -->
   </div><!--/.container -->
 </div><!--/.navbar -->
 <!-- Google Fonts Open Sans and Roboto -->
 <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto" rel="stylesheet">
 
-<link rel="shortcut icon" href="https://www.r-project.org/favicon-32x32.png">
+<!-- <link rel="shortcut icon" href="https://www.r-project.org/favicon-32x32.png"> -->
+
+<link rel="shortcut icon" type="image" href="favicon_cafe.ico"/>
 
 <div class="fluid-row" id="header">
 
@@ -343,18 +329,25 @@ $(document).ready(function () {
 
 <div id="TOC">
 <ul>
-<li><a href="#emergency-department-visit-diagnosis">Emergency Department Visit Diagnosis</a></li>
+<li><a href="#emergency-department-visit-diagnoses">Emergency Department Visit Diagnoses</a></li>
+<li><a href="#reported-malaria-deaths">Reported Malaria Deaths</a></li>
 <li><a href="#refugees-and-populations-of-concern">Refugees and Populations of Concern</a></li>
 <li><a href="#seasonality-of-watermain-breaks">Seasonality of Watermain Breaks</a></li>
 <li><a href="#laminar-flow-in-a-pipe">Laminar Flow in a Pipe</a></li>
 </ul>
 </div>
 
-<p>This page contains some <strong>data visualizations</strong> on work I’ve done over the years using variety of R packages. Most of these are from <a href="https://opendatascience.com/user/eugene-joh/">previous blog posts</a> demonstrating using R for data wrangling and visualization.</p>
-<div id="emergency-department-visit-diagnosis" class="section level3">
-<h3>Emergency Department Visit Diagnosis</h3>
-<p>This <em>tree map</em> was created using data from the <a href="https://www.cdc.gov/nchs/ahcd/index.htm">National Health Ambulatory Medical Care Survey (NHAMCS)</a> from the United States. The groups are the diagnoses given for the emergency department visit, based on ICD-9 codes captured in the dataset.<br />
+<p>This page contains some <strong>data visualizations</strong> on work I’ve done over the years using variety of R packages. Most of what I produce relies on the <a href="https://ggplot2.tidyverse.org/">ggplot2</a> package based on Leland Wilkinson’s the grammar of graphics framework. The majority of data visualizations below are from <a href="https://opendatascience.com/user/eugene-joh/">previous blog posts</a> demonstrating using R for data wrangling and visualization.</p>
+<div id="emergency-department-visit-diagnoses" class="section level3">
+<h3>Emergency Department Visit Diagnoses</h3>
+<p>This <em>tree map</em> was created using data from the <a href="https://www.cdc.gov/nchs/ahcd/index.htm">National Health Ambulatory Medical Care Survey (NHAMCS)</a> from the United States. The groups in the tree map are the different diagnoses given for each emergency department visit, based on <a href="https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems">International Classification of Disease Codes 9th Revision</a> (ICD-9) codes captured in the dataset.<br />
 <img align="center" src="img/data_viz/icd-9_tree_2009.png", width = 700> <em>Created using the <a href="https://cran.r-project.org/web/packages/treemap/index.html">treemap</a> package.</em></p>
+<p><br></p>
+</div>
+<div id="reported-malaria-deaths" class="section level3">
+<h3>Reported Malaria Deaths</h3>
+<p>The World Health Organization (WHO) maintains a <a href="https://www.who.int/gho/en/">mortality repository</a>, that contains data on deaths across the world. One of the key pieces of data collected by the WHO are the reported number of <a href="https://www.who.int/malaria/en/">malaria deaths</a>. These are numbers are provided the national malaria control programmes that exist in these countries, and primarily represent deaths that occurred in a health facility/hospital. The graph below displays the number of reported malaria deaths over time in four select countries: Ethiopia, Mozambique, Sierra Leone, and India.<br />
+<img align="center" src="img/data_viz/malaria_mort.gif", width = 800> <em>Created using the <a href="https://ggplot2.tidyverse.org/">ggplot2</a> and <a href="https://gganimate.com/">gganimate</a> packages.</em></p>
 <p><br></p>
 </div>
 <div id="refugees-and-populations-of-concern" class="section level3">

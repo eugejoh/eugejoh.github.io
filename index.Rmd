@@ -1,6 +1,6 @@
 ---
-title: "Home"
-permalink: /home/
+title: "About"
+permalink: /about/
 ---
 
 Welcome to my Github Pages site! It contains some basic information about myself, my interests, my skill set, and some projects I've worked on.

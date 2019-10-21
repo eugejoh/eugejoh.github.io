@@ -42,11 +42,13 @@ body {
   font-size: 16;
 }
 
+/* navigation bar text */
 .nav {
   font-family: "Open Sans", serif;;
   color: white;
   height: 50px;
-  font-size: large;
+  font-size: small;
+  font-size: 1vw;
 }
 
 a:link {
@@ -82,4 +84,19 @@ a:active {
   content: "";
   display: table;
   clear: both;
+}
+
+/* footer options */
+#footer
+{
+    clear: both;
+    color: #2E4053;
+    padding: 0;
+    text-align: center;
+    vertical-align: left;
+    line-height: normal;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
 }

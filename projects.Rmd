@@ -6,12 +6,19 @@ output:
     toc: true
 ---
 
-This page contains some **data visualizations** on work I've done over the years using variety of R packages. Most of these are from [previous blog posts](https://opendatascience.com/user/eugene-joh/) demonstrating using R for data wrangling and visualization.
+This page contains some **data visualizations** on work I've done over the years using variety of R packages. Most of what I produce relies on the [ggplot2](https://ggplot2.tidyverse.org/) package based on Leland Wilkinson's the grammar of graphics framework. The majority of data visualizations below are from [previous blog posts](https://opendatascience.com/user/eugene-joh/) demonstrating using R for data wrangling and visualization.  
 
-### Emergency Department Visit Diagnosis
-This *tree map* was created using data from the [National Health Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) from the United States. The groups are the diagnoses given for the emergency department visit, based on ICD-9 codes captured in the dataset.  
+### Emergency Department Visit Diagnoses
+This *tree map* was created using data from the [National Health Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) from the United States. The groups in the tree map are the different diagnoses given for each emergency department visit, based on [International Classification of Disease Codes 9th Revision](https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems) (ICD-9) codes captured in the dataset.  
 <img align="center" src="img/data_viz/icd-9_tree_2009.png", width = 700>
 *Created using the [treemap](https://cran.r-project.org/web/packages/treemap/index.html) package.*
+
+<br>
+
+### Reported Malaria Deaths
+The World Health Organization (WHO) maintains a [mortality repository](https://www.who.int/gho/en/), that contains data on deaths across the world. One of the key pieces of data collected by the WHO are the reported number of [malaria deaths](https://www.who.int/malaria/en/). These are numbers are provided the national malaria control programmes that exist in these countries, and primarily represent deaths that occurred in a health facility/hospital. The graph below displays the number of reported malaria deaths over time in four select countries: Ethiopia, Mozambique, Sierra Leone, and India.  
+<img align="center" src="img/data_viz/malaria_mort.gif", width = 800>
+*Created using the [ggplot2](https://ggplot2.tidyverse.org/) and [gganimate](https://gganimate.com/) packages.*
 
 <br>
 
