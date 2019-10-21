@@ -1,20 +1,20 @@
-name: "Home"
+name: "About"
 output_dir: "."
 navbar:
   title: "Eugene Joh"
   type: 
-  left:
-    - text: ""
-      icon: fa-user
+  right:
+    - text: "About"
+      #icon: fa-user
       href: index.html
-    - text: ""
-      icon: fa-wrench
+    - text: "Tools"
+      #icon: fa-wrench
       href: cv.html
-    - text: ""
-      icon: fa-chart-bar
+    - text: "Projects"
+      #icon: fa-chart-bar
       href: projects.html
-    - text: ""
-      icon: fa-envelope fa-lg
+    - text: "Contact"
+      #icon: fa-envelope fa-lg
       href: contact.html
     - icon: fa-github fa-lg
       href: https://github.com/eugejoh
