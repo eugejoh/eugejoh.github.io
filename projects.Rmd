@@ -1,10 +1,29 @@
 ---
-title: "Data Visualizations"
+title: "Projects"
 # permalink: /projects/
 output: 
   html_document:
     toc: true
+    toc_depth: 1
 ---
+# Projects
+### sendtg: Send Telegram Notifications with R
+The [`sendtg`](https://github.com/eugejoh/sendtg) package is provides a number of simple R functions to send Telegram messages. This is a wrapper around the [`telegram.bot`](https://github.com/ebeneditos/telegram.bot) R package. 
+![](https://eugejoh.netlify.com/images/sendtg_ani.gif)
+
+<br>
+
+### pgtools: Simple tools for writing tables to PostgreSQL from R
+The [`pgtools`](https://github.com/eugejoh/WHOmortality) package.
+
+<br>
+
+### WHOmortality: Tools to access and import the World Health Organization Mortality Database
+The [`WHOmortality`](https://github.com/eugejoh/WHOmortality) package.
+
+<br>
+
+# Data Visualizations
 
 This page contains some **data visualizations** on work I've done over the years using variety of R packages. Most of what I produce relies on the [ggplot2](https://ggplot2.tidyverse.org/) package based on Leland Wilkinson's the grammar of graphics framework. The majority of data visualizations below are from [previous blog posts](https://opendatascience.com/user/eugene-joh/) demonstrating using R for data wrangling and visualization.  
 
