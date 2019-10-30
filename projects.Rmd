@@ -18,7 +18,7 @@ The [`pgtools`](https://github.com/eugejoh/WHOmortality) package.
 
 <br>
 
-### WHOmortality: Tools to access and import the World Health Organization Mortality Database
+### WHOmortality: Tools to Access World Health Organization Mortality Data
 The [`WHOmortality`](https://github.com/eugejoh/WHOmortality) package.
 
 <br>
