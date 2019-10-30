@@ -4,9 +4,9 @@ title: "Projects"
 output: 
   html_document:
     toc: true
-    toc_depth: 1
+    toc_depth: 3
 ---
-# Projects
+# R Packages
 ### sendtg: Send Telegram Notifications with R
 The [`sendtg`](https://github.com/eugejoh/sendtg) package is provides a number of simple R functions to send Telegram messages. This is a wrapper around the [`telegram.bot`](https://github.com/ebeneditos/telegram.bot) R package. 
 ![](https://eugejoh.netlify.com/images/sendtg_ani.gif)
