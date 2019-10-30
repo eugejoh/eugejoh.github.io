@@ -33,8 +33,8 @@ My main tool for anything data related is **R**. My typical workflow uses the [*
 <h3>Domain Knowledge</h3><p>
 - Infectious Disease Epidemiology  
 - Disease Surveillance  
-- Vector-borne Diseases  
 - Vaccine-Preventable Diseases  
+- Vector-borne Diseases  
 </p>
 </div>
 <div class="column">
