@@ -7,8 +7,8 @@ Welcome to my Github Pages site! It contains some basic information about myself
 
 Besides drinking copious amounts of coffee and planning weekend hikes, I am an avid **[R user](https://www.r-project.org/){target="_blank"}** and strong believer in reproducible workflows for research.  
 
-<img align="left" src="img/me.jpg", height = 220, width = 225>
+<img align="left" src="img/me2.jpg", height = 220, width = 225>
 
 The journey up to this point has been non-linear. I completed my undergraduate studies in an [interdisciplinary field](https://www.schulich.uwo.ca/biophysics/undergraduate/future_students/what_is_medical_biophysics.html){target="_blank"}, but shifted my interest to **public health** for my [graduate studies](https://www.bu.edu/sph/){target="_blank"} where I discovered [**R**](https://www.r-project.org/) as an amazing tool for data analysis.
 
-I currently work as an [epidemiogist](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology){target="_blank"} in Toronto, Canada. If you want to connect or grab a coffee, feel free to [contact me](contact.html)!
+I currently work as an [epidemiologist](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology){target="_blank"} in Toronto, Canada. If you want to connect or grab a coffee, feel free to [contact me](contact.html)!
