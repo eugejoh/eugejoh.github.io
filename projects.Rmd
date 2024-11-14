@@ -6,6 +6,11 @@ output:
     toc: true
     toc_depth: 3
 ---
+
+```{r include = FALSE}
+knitr::opts_knit$set(base.url='https://github.com/eugejoh/raw/master/')
+```
+
 # Data Visualizations
 
 This page contains some **data visualizations** on work I've done over the years using variety of R packages. Most of what I produce relies on the [ggplot2](https://ggplot2.tidyverse.org/) package based on Leland Wilkinson's the grammar of graphics framework. The majority of data visualizations below are from [previous blog posts](https://opendatascience.com/user/eugene-joh/) demonstrating using R for data wrangling and visualization.  
