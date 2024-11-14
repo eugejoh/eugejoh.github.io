@@ -7,9 +7,9 @@ permalink: /about/
 knitr::opts_knit$set(base.url='https://github.com/eugejoh/raw/master/')
 ```
 
-Welcome to my Github Pages! This website contains information about myself, my interests and some projects I've worked on.
+\<img align="left" src="img/me2.jpg", height = 220, width = 225>
 
-<img align="left" src="img/me2.jpg", height = 220, width = 225>
+Welcome to my Github Page! This website contains information about myself, my interests and some projects I've worked on.
 
 I consider myself to be a hybrid public health data professional with domain knowledge and expertise in disease surveillance and a technical skill set more closely aligned to a data scientist. Since completing my graduate studies I have over 6 years of experience working in various multidisciplinary research and public sector settings with increasing responsibilities. I have extensive experience working directly with surveillance information systems, strong data management and analytics skills.
 
