@@ -17,28 +17,28 @@ This page contains some **data visualizations** on work I've done over the years
 
 ### Emergency Department Visit Diagnoses
 This *tree map* was created using data from the [National Health Ambulatory Medical Care Survey (NHAMCS)](https://www.cdc.gov/nchs/ahcd/index.htm) from the United States. The groups in the tree map are the different diagnoses given for each emergency department visit, based on [International Classification of Disease Codes 9th Revision](https://en.wikipedia.org/wiki/International_Statistical_Classification_of_Diseases_and_Related_Health_Problems) (ICD-9) codes captured in the dataset.  
-<img align="center" src="img/data_viz/icd-9_tree_2009.png", width = 700>
+\<img align="center" src="img/data_viz/icd-9_tree_2009.png", width = 700\>
 *Created using the [treemap](https://cran.r-project.org/web/packages/treemap/index.html) package.*
 
 <br>
 
 ### Refugees and Populations of Concern
 The [United Nations High Commissioner for Refugees (UNHCR)](https://www.unhcr.org/data.html), the UN Refugee Agency obtain information of displaced persons from around the world, including refugees. The stacked bar chart displays the increase of these [Populations of Concern](https://www.unhcr.org/ph/persons-concern-unhcr) over time. Note that definitions of these groups were introduced at different time points but the overall number of displaced peoples have steadily increased.  
-<img align="center" src="img/data_viz/unhcr_totals_yr.png", width = 800>
+\<img align="center" src="img/data_viz/unhcr_totals_yr.png", width = 800\>
 *Created using the [ggplot2](https://ggplot2.tidyverse.org/) package.*
 
 <br>
 
 ### Seasonality of Watermain Breaks
 The City of Toronto has an [open data portal](https://open.toronto.ca/) with datasets on watermain breaks throughout the city. The animated boxplots display the number of watermain breaks in each month over a 26 year period. The blue line represents the number of watermain breaks for a specific year.  
-<img align="center" src="img/data_viz/wm_wm2.gif", width = 650>
+\<img align="center" src="img/data_viz/wm_wm2.gif", width = 650\>
 *Created using the [ggplot2](https://ggplot2.tidyverse.org/) and [gganimate](https://gganimate.com/) packages.*
 
 <br>
 
 ### Laminar Flow in a Pipe
 [Hagen–Poiseuille's law](https://en.wikipedia.org/wiki/Hagen%E2%80%93Poiseuille_equation) describes the behaviour of an incompressible fluid in laminar flow within a cylindrical pipe with a constant radius. The animated visualization shows the changes in the velocity profile when the pressure difference increases, here at each time point (*t*).  
-<img align="center" src="img/data_viz/vprofile11.gif", width = 600>
+\<img align="center" src="img/data_viz/vprofile11.gif", width = 600\>
 *Created using the [ggplot2](https://ggplot2.tidyverse.org/) and [gganimate](https://gganimate.com/) packages.*
 
 <br>
