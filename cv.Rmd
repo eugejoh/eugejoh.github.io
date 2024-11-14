@@ -1,49 +1,19 @@
 ---
-title: "Skills & Tools"
+title: "CV"
 permalink: /cv/
 ---
 
-My main tool for anything data related is **R**. My typical workflow uses the [**RStudio**](https://rstudio.com/products/rstudio/) IDE, and the [**tidyverse**](https://www.tidyverse.org/).  
+A summary of my technical skills are below. For more details on my professional experiences, please see my [CV](CV_resume_eugene_joh.pdf) or [LinkedIn profile](https://www.linkedin.com/in/eugejoh).
 
 <!-- Use formattable package to create  -->
 <div class="row">
 <div class="column">
 <h3>Technical Skills</h3><p>
-- Descriptive Data Analysis  
-- Data Visualization  
-- Statistical Modeling  
-- Spatial Data Analysis  
-- Record Linkage  
-- RDBMS Query and Design  
-- Machine Learning  
-</p>
-</div>
-<div class="column">
-<h3>Tools</h3><p>
-- R  
-- MySQL, PostgreSQL  
-- Git
-- Python  
-- ArcGIS, QGIS  
-- HTML, CSS  
-- SAS  
-</p>
-</div>
-<div class="column">
-<h3>Domain Knowledge</h3><p>
-- Infectious Disease Epidemiology  
-- Disease Surveillance  
-- Vaccine-Preventable Diseases  
-- Vector-borne Diseases  
-</p>
-</div>
-<div class="column">
-<h3>Other Skills</h3><p>
-- Knowledge Translation  
-- Scientific Writing  
-- Reference Management (Refworks, Zotero)  
-- Image Processing (ImageMagick, ImageJ)  
-</p>
+- <b>Programming:</b> R, Python, MATLAB, HTML, CSS, Git  
+- <b>Data Analysis:</b> SAS, R Shiny, Power BI, Tableau  
+- <b>Database Management:</b> SQL, PostgreSQL, MySQL, SQLite, PostGIS  
+- <b>Spatial Analysis:</b> ArcGIS, QGIS  
+- <b>Cloud Platform:</b> Azure Databricks, Google Cloud BigQuery  
 </div>
 </div>
 

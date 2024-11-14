@@ -17,13 +17,6 @@ This *tree map* was created using data from the [National Health Ambulatory Medi
 
 <br>
 
-### Reported Malaria Deaths
-The World Health Organization (WHO) maintains a [mortality repository](https://www.who.int/gho/en/), that contains data on deaths across the world. One of the key pieces of data collected by the WHO are the reported number of [malaria deaths](https://www.who.int/malaria/en/). These are numbers are provided the national malaria control programmes that exist in these countries, and primarily represent deaths that occurred in a health facility/hospital. The graph below displays the number of reported malaria deaths over time in four select countries: Ethiopia, Mozambique, Sierra Leone, and India.  
-<img align="center" src="img/data_viz/malaria_mort.gif", width = 800>
-*Created using the [ggplot2](https://ggplot2.tidyverse.org/) and [gganimate](https://gganimate.com/) packages.*
-
-<br>
-
 ### Refugees and Populations of Concern
 The [United Nations High Commissioner for Refugees (UNHCR)](https://www.unhcr.org/data.html), the UN Refugee Agency obtain information of displaced persons from around the world, including refugees. The stacked bar chart displays the increase of these [Populations of Concern](https://www.unhcr.org/ph/persons-concern-unhcr) over time. Note that definitions of these groups were introduced at different time points but the overall number of displaced peoples have steadily increased.  
 <img align="center" src="img/data_viz/unhcr_totals_yr.png", width = 800>
@@ -47,8 +40,7 @@ The City of Toronto has an [open data portal](https://open.toronto.ca/) with dat
 
 # R Packages
 ### sendtg: Send Telegram Notifications with R
-The [`sendtg`](https://github.com/eugejoh/sendtg) package is provides a number of simple R functions to send Telegram messages. This is a wrapper around the [`telegram.bot`](https://github.com/ebeneditos/telegram.bot) R package. 
-![](https://eugejoh.netlify.com/images/sendtg_ani.gif)
+The [`sendtg`](https://github.com/eugejoh/sendtg) package is provides a number of simple R functions to send Telegram messages. This is a wrapper around the [`telegram.bot`](https://github.com/ebeneditos/telegram.bot) R package.
 
 <br>
 

@@ -3,12 +3,10 @@ title: "About"
 permalink: /about/
 ---
 
-Welcome to my Github Pages site! It contains some basic information about myself, my interests, my skill set, and some projects I've worked on.
-
-Besides drinking copious amounts of coffee and planning weekend hikes, I am an avid **[R user](https://www.r-project.org/){target="_blank"}** and strong believer in reproducible workflows for research.  
+Welcome to my Github Pages! This website contains information about myself, my interests and some projects I've worked on.
 
 <img align="left" src="img/me2.jpg", height = 220, width = 225>
 
-The journey up to this point has been non-linear. I completed my undergraduate studies in an [interdisciplinary field](https://www.schulich.uwo.ca/biophysics/undergraduate/future_students/what_is_medical_biophysics.html){target="_blank"}, but shifted my interest to **public health** for my [graduate studies](https://www.bu.edu/sph/){target="_blank"} where I discovered [**R**](https://www.r-project.org/) as an amazing tool for data analysis.
+I consider myself to be a hybrid public health data professional with domain knowledge and expertise in disease surveillance and a technical skill set more closely aligned to a data scientist. Since completing my graduate studies I have over 6 years of experience working in various multidisciplinary research and public sector settings with increasing responsibilities. I have extensive experience working directly with surveillance information systems, strong data management and analytics skills.
 
-I currently work as an [epidemiologist](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology){target="_blank"} in Toronto, Canada. If you want to connect or grab a coffee, feel free to [contact me](contact.html)!
+I am an avid [**R user**](https://www.r-project.org/) currently work as an [epidemiologist](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology){target="_blank"} in Ottawa, Canada. If you would like to connect, feel free to [contact me](contact.html).

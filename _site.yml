@@ -10,7 +10,7 @@ navbar:
     - text: "Projects"
       #icon: fa-chart-bar
       href: projects.html
-    - text: "Tools"
+    - text: "CV"
       #icon: fa-wrench
       href: cv.html
     - text: "Contact"
@@ -18,8 +18,8 @@ navbar:
       href: contact.html
     - icon: fa-github fa-lg
       href: https://github.com/eugejoh
-    - icon: fa-twitter fa-lg
-      href: https://twitter.com/eugejoh
+#    - icon: fa-twitter fa-lg
+#      href: https://twitter.com/eugejoh
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/eugejoh
 output:
