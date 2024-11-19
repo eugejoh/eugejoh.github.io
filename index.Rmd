@@ -11,8 +11,8 @@ knitr::opts_knit$set(base.url='https://github.com/eugejoh/raw/master/')
 
 Welcome to my Github Page! This website contains information about myself, my interests and some projects I've worked on.
 
-I consider myself to be a hybrid public health data professional with domain knowledge and expertise in disease surveillance and a technical skill set more closely aligned to a data scientist. Since completing my graduate studies I have over 6 years of experience working in various multidisciplinary research and public sector settings with increasing responsibilities. I have extensive experience working directly with surveillance information systems, strong data management and analytics skills.
+I consider myself to be a hybrid public health data professional with domain knowledge and expertise in disease surveillance and a technical skill set more closely aligned to a data scientist. Since completing my graduate studies I have over 6 years of experience working in various multidisciplinary research and public sector settings with increasing responsibilities. I have extensive experience working directly with surveillance information systems, strong data management and data analytics skills.
 
-I am an avid [**R user**](https://www.r-project.org/) currently work as an [epidemiologist](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology){target="_blank"} in Ottawa, Canada. If you would like to connect, feel free to [contact me](contact.html).
+I am an avid [**R user**](https://www.r-project.org/) currently working as an [epidemiologist](https://www.bmj.com/about-bmj/resources-readers/publications/epidemiology-uninitiated/1-what-epidemiology){target="_blank"} in Ottawa, Canada. Please see my **[CV/Resume](CV_resume_eugene_joh.pdf)** or my [LinkedIn profile](https://www.linkedin.com/in/eugejoh) to learn more about my experiences. If you would like to connect, feel free to [contact me](contact.html).
 
 

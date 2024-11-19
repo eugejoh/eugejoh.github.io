@@ -3,7 +3,7 @@ title: "CV and Skills"
 permalink: /cv/
 ---
 
-A summary of my technical skills are below. For more details on my professional experiences, please see my **[CV](CV_resume_eugene_joh.pdf)** or [LinkedIn](https://www.linkedin.com/in/eugejoh) prfile.
+A summary of my technical skills are below. For more details on my professional experiences, please see my **[CV/Resume](CV_resume_eugene_joh.pdf)** or [LinkedIn profile](https://www.linkedin.com/in/eugejoh).
 <!-- Use formattable package to create  -->
 <div class="row">
 <div class="column">
